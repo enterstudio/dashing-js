@@ -17,7 +17,7 @@
     "mincer": "~0.5.12",
     "node-sass": "~0.7.0",
     "node-schedule": "~0.1.8",
-    "prompt": "~0.2.11",
+    "prompt": "~1.2.0",
     "request": "~2.30.0",
     "unzip": "~0.1.7",
     "walker": "~1.0.3",
